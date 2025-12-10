@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 <!-- ====== PROFILE IMAGE (RIGHT SIDE) ====== -->
-<img " align="right" alt="Profile Image" width="240" style="border-radius: 50px;" src="https://github.com/MohamedELHalmoushy/MohamedELHalmoushy/blob/main/Mohamed%20EL-Halmoushy.png">
+<!-- Profile Image -->
+<p align="right">
+  <img alt="Profile Image" width="240" height="240" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Mohamed%20EL-Halmoushy.png">
+</p>
 
 <h1 align="center">👋 Mohamed El-Halmoushy</h1>
 <h3 align="center">AI Engineer | DL Engineer  | Computer Engineer | NLP Engineer</h3>
