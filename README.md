@@ -81,6 +81,9 @@
 ---
 
 ## 🏅 Achievements  
+<p align="center">
+  <img alt="2nd Place" width="500" height="500" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Hackathon.jpg">
+</p>
 - Ranked **1st** in Intelligent Systems Engineering  
 - Ranked **2nd** in CyberArena Hackathon AI Battle  
 - Completed **AI/ML Internship** at Tripple One Solutions  
