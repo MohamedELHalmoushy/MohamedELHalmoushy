@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <!-- ====== PROFILE IMAGE (RIGHT SIDE) ====== -->
-<img align="right" alt="Profile Image" width="240" style="border-radius: 15px;" src="https://github.com/MohamedELHalmoushy/MohamedELHalmoushy/blob/main/Mohamed%20EL-Halmoushy.png">
+<img padding="20px" align="right" alt="Profile Image" width="240" style="border-radius: 15px;" src="https://github.com/MohamedELHalmoushy/MohamedELHalmoushy/blob/main/Mohamed%20EL-Halmoushy.png">
 
 <h1 align="center">👋 Hi, I'm Mohamed El-Halmoushy</h1>
-<h3 align="center">AI Engineer | DSP Enthusiast | Computer Engineering Student | Embedded Systems Developer</h3>
+<h3 align="center">AI Engineer | DL Engineer  | Computer Engineer | NLP Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;DSP+%26+Embedded+Systems+Engineer;Computer+Engineering+Student;IoT+Developer;Always+Learning+New+Technologies">
