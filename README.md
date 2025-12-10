@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!-- ====== PROFILE IMAGE (RIGHT SIDE) ====== -->
 <!-- Profile Image -->
 <p align="right">
   <img alt="Profile Image" width="240" height="240" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Mohamed%20EL-Halmoushy.png">
@@ -9,8 +7,9 @@
 <h1 align="center">👋 Mohamed El-Halmoushy</h1>
 <h3 align="center">AI Engineer | DL Engineer  | Computer Engineer | NLP Engineer</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;NLP Engineer;DSP+%26+Embedded+Systems+Engineer;Computer+Engineer;IoT+Developer;Always+Learning+New+Technologies">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;DSP+%26+Embedded+Systems+Engineer;Computer+Engineering+Student;IoT+Developer;Always+Learning+New+Technologies">
 </p>
 
 ---
