@@ -3,7 +3,7 @@
 <!-- ====== PROFILE IMAGE (RIGHT SIDE) ====== -->
 <img padding="20px" align="right" alt="Profile Image" width="240" style="border-radius: 15px;" src="https://github.com/MohamedELHalmoushy/MohamedELHalmoushy/blob/main/Mohamed%20EL-Halmoushy.png">
 
-<h1 align="center">👋 Hi, I'm Mohamed El-Halmoushy</h1>
+<h1 align="center">👋 Mohamed El-Halmoushy</h1>
 <h3 align="center">AI Engineer | DL Engineer  | Computer Engineer | NLP Engineer</h3>
 
 <p align="center">
@@ -93,8 +93,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedELHalmoushy&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedELHalmoushy&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
