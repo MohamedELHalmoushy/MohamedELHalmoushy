@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- Profile Image -->
-<p align="right">
+<p align="center">
   <img alt="Profile Image" width="240" height="240" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Mohamed%20EL-Halmoushy.png">
 </p>
 
