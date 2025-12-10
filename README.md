@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- ====== PROFILE IMAGE (RIGHT SIDE) ====== -->
-<img align="right" alt="Profile Image" width="240" style="border-radius: 15px;" src="YOUR_IMAGE_LINK_HERE">
+<img align="right" alt="Profile Image" width="240" style="border-radius: 15px;" src="https://github.com/MohamedELHalmoushy/MohamedELHalmoushy/blob/main/Mohamed%20EL-Halmoushy.png">
 
 <h1 align="center">👋 Hi, I'm Mohamed El-Halmoushy</h1>
 <h3 align="center">AI Engineer | DSP Enthusiast | Computer Engineering Student | Embedded Systems Developer</h3>
