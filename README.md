@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Profile Image" width="500" height="240" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Mohamed%20EL-Halmoushy.png">
+  <img alt="Profile Image" width="240" height="240" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Mohamed%20EL-Halmoushy.png">
 </p>
 
 <h1 align="center">👑 Mohamed El-Halmoushy 👑</h1>
