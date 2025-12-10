@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;DSP+%26+Embedded+Systems+Engineer;Computer+Engineering+Student;IoT+Developer;Always+Learning+New+Technologies">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;DSP+%26+Embedded+Systems+Engineer;Computer+Engineering;IoT+Developer;Always+Learning+New+Technologies">
 </p>
 
 ---
