@@ -188,13 +188,9 @@
 
 ### 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### 📈 Animated Contribution Graph
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/MohamedELHalmoushy?theme=tokyonight&animation=true" />
-</p>
 
 ### 🔥 Profile Contribution Summary
 <p align="center">
