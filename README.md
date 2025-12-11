@@ -95,8 +95,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Overall Stats Card -->
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedELHalmoushy&show_icons=true&theme=tokyonight" />
+  <!-- Top Languages Card -->
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
   <!-- Stars -->
   <a href="https://github.com/MohamedELHalmoushy?tab=stars" target="_blank">
     <img src="https://img.shields.io/github/stars/MohamedELHalmoushy?style=flat-square&logo=github&label=Stars&color=yellow" alt="Stars"/>
@@ -111,8 +116,6 @@
   <a href="https://komarev.com/ghpvc/?username=MohamedELHalmoushy" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=MohamedELHalmoushy&color=blue&style=flat-square" alt="Profile Views"/>
   </a>
-
-
 </p>
 
 ---
