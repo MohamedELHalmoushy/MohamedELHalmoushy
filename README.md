@@ -93,199 +93,77 @@
 
 </div>
 
+# 📌 Featured Projects – Premium GitHub README Style 👑🔥
+
 ---
-<style>
-/* ==== Slider Container ==== */
-.slider {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  gap: 20px;
-  padding-bottom: 20px;
-}
 
-/* Hide scrollbar */
-.slider::-webkit-scrollbar { display: none; }
-.slider { -ms-overflow-style: none; scrollbar-width: none; }
+### ⭐ AI Chatbot with Emotional Understanding  
+![🤖](https://img.icons8.com/color/48/robot-2.png)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![AI Chatbot GIF](https://media.giphy.com/media/EQ9uZf7L3nfYk/giphy.gif)  
 
-/* ==== Project Card ==== */
-.project-card {
-  min-width: 320px;
-  max-width: 350px;
-  border-radius: 20px;
-  padding: 20px;
-  background: linear-gradient(135deg, #1e1e2e, #2c2c3d);
-  box-shadow: 0 0 25px rgba(0,255,255,0.2);
-  border: 2px solid transparent;
-  position: relative;
-  overflow: hidden;
-  transform: translateY(50px);
-  opacity: 0;
-  transition: transform 0.5s ease, box-shadow 0.5s ease;
-  perspective: 1000px;
-  flex-shrink: 0;
-}
+- **Detects:** happiness, sadness, anger, fear  
+- **Tech:** NLP + Seq2Seq + Deep Learning  
+- **Features:** API-ready & tested via Postman  
+- **Status:** 🟢 Completed  
 
-/* Slide-in Animation */
-.project-card.animate {
-  transform: translateY(0);
-  opacity: 1;
-}
+---
 
-/* ==== Glow Animated Border ==== */
-.project-card::before {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(45deg, #00fff7, #ff00f7, #ffff00, #00fff7);
-  animation: gradientMove 4s linear infinite;
-  z-index: 0;
-  opacity: 0.25;
-}
+### ⭐ Real-time Face Recognition System  
+![👁️](https://img.icons8.com/color/48/eye.png)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Face Recognition GIF](https://media.giphy.com/media/l3fzGBzPUkGWDfPBu/giphy.gif)  
 
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
+- **Uses:** MTCNN + FaceNet embeddings  
+- **Real-time:** videos, images, webcam  
+- **Platform:** Google Colab + Kaggle dataset  
+- **Status:** 🟢 Completed  
 
-/* Hover Effects */
-.project-card:hover {
-  transform: rotateY(5deg) rotateX(3deg) scale(1.08);
-  box-shadow: 0 0 35px rgba(0,255,255,0.55);
-}
+---
 
-/* ==== Card Content ==== */
-.project-card > * {
-  position: relative;
-  z-index: 1;
-}
+### ⭐ Audio Watermarking System (MATLAB)  
+![🎵](https://img.icons8.com/color/48/music.png)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7800?style=for-the-badge&logo=mathworks&logoColor=white)  
+![Audio GIF](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)  
 
-.project-title {
-  font-size: 1.4rem;
-  font-weight: bold;
-  margin-bottom: 10px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  color: #00fff7;
-}
+- **Function:** Hide secret text inside audio  
+- **Techniques:** DSP (FFT + Filters)  
+- **Accuracy:** High precision recovery  
+- **Status:** 🟢 Completed  
 
-.project-title img {
-  width: 28px;
-  height: 28px;
-  animation: bounce 1.5s infinite;
-}
+---
 
-/* GIF Animation */
-.project-gif {
-  width: 100%;
-  border-radius: 15px;
-  margin-bottom: 10px;
-  transition: transform 0.3s ease;
-}
+### ⭐ Smart Trash Bin using ATmega32  
+![🗑️](https://img.icons8.com/color/48/trash.png)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Trash Bin GIF](https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif)  
 
-.project-card:hover .project-gif {
-  transform: scale(1.08);
-}
+- **Function:** Waste categorization with sensors  
+- **Hardware:** Motor control using L293, LCD interface  
+- **Design:** Full Proteus schematic  
+- **Status:** 🟢 Completed  
 
-/* Bounce Animation for icons */
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
-}
+---
 
-/* Dark/Light Mode */
-@media (prefers-color-scheme: light) {
-  .project-card {
-    background: linear-gradient(135deg, #f0f7ff, #d0e3ff);
-    box-shadow: 0 0 20px rgba(0,0,0,0.1);
-  }
-  .project-title { color: #0078d4; }
-}
-</style>
+### ⭐ Spam Email Classifier  
+![✉️](https://img.icons8.com/color/48/email.png)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Spam GIF](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)  
 
-<div class="slider">
+- **Process:** Text preprocessing  
+- **Models:** SVM, Logistic Regression, Naive Bayes  
+- **Accuracy:** **97%**  
+- **Status:** 🟢 Completed  
 
-<!-- ==== PROJECT 1 ==== -->
-<div class="project-card">
-  <div class="project-title">
-    <img src="https://img.icons8.com/color/48/robot-2.png"/> AI Chatbot with Emotional Understanding
-  </div>
-  <img class="project-gif" src="https://media.giphy.com/media/EQ9uZf7L3nfYk/giphy.gif">
-  <ul>
-    <li>Detects <b>happiness, sadness, anger, fear</b></li>
-    <li>Built using <b>NLP + Seq2Seq + Deep Learning</b></li>
-    <li>API-ready & tested via Postman</li>
-  </ul>
-</div>
-
-<!-- ==== PROJECT 2 ==== -->
-<div class="project-card">
-  <div class="project-title">
-    <img src="https://img.icons8.com/color/48/eye.png"/> Real-time Face Recognition System
-  </div>
-  <img class="project-gif" src="https://media.giphy.com/media/l3fzGBzPUkGWDfPBu/giphy.gif">
-  <ul>
-    <li>Uses <b>MTCNN + FaceNet embeddings</b></li>
-    <li>Real-time: videos, images, webcam</li>
-    <li>Developed on Google Colab using Kaggle dataset</li>
-  </ul>
-</div>
-
-<!-- ==== PROJECT 3 ==== -->
-<div class="project-card">
-  <div class="project-title">
-    <img src="https://img.icons8.com/color/48/music.png"/> Audio Watermarking System (MATLAB)
-  </div>
-  <img class="project-gif" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
-  <ul>
-    <li>Hides secret text inside audio</li>
-    <li>Uses DSP techniques (FFT + Filters)</li>
-    <li>Accurate data recovery</li>
-  </ul>
-</div>
-
-<!-- ==== PROJECT 4 ==== -->
-<div class="project-card">
-  <div class="project-title">
-    <img src="https://img.icons8.com/color/48/trash.png"/> Smart Trash Bin using ATmega32
-  </div>
-  <img class="project-gif" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif">
-  <ul>
-    <li>Waste categorization with sensors</li>
-    <li>Motor control using L293</li>
-    <li>LCD interface + Proteus design</li>
-  </ul>
-</div>
-
-<!-- ==== PROJECT 5 ==== -->
-<div class="project-card">
-  <div class="project-title">
-    <img src="https://img.icons8.com/color/48/email.png"/> Spam Email Classifier
-  </div>
-  <img class="project-gif" src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
-  <ul>
-    <li>Text preprocessing</li>
-    <li>Models: SVM, Logistic Regression, Naive Bayes</li>
-    <li>Accuracy: <b>97%</b></li>
-  </ul>
-</div>
-
-</div>
-
-<script>
-/* ==== Animate Cards on Load ==== */
-document.addEventListener("DOMContentLoaded", () => {
-  const cards = document.querySelectorAll(".project-card");
-  cards.forEach((card, idx) => {
-    setTimeout(() => { card.classList.add("animate"); }, idx * 200);
-  });
-});
-</script>
+---
+```markdown
+<details>
+  <summary>Click to view Projects</summary>
+  ...Projects content here...
+</details>
 
 ## 🏅 Achievements  
 - Ranked **1st** in Intelligent Systems Engineering  
