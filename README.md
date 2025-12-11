@@ -184,5 +184,34 @@
 
 ---
 
+## 💎 Contribution Activity (Advanced & Animated)
+
+### 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake.svg" />
+</p>
+
+### 📈 Animated Contribution Graph
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/MohamedELHalmoushy?theme=tokyonight&animation=true" />
+</p>
+
+### 🔥 Profile Contribution Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedELHalmoushy&theme=tokyonight" />
+</p>
+
+### ⏰ Productive Time (When you code the most)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedELHalmoushy&theme=tokyonight" />
+</p>
+
+### 🌡️ Contribution Heatmap (Pro)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedELHalmoushy&theme=tokyonight&hide_border=true&area=true" />
+</p>
+
+---
+
 ### ⚡ Fun Fact  
 I build intelligent systems that combine **AI + DSP + Embedded Systems** to solve real-world problems.
