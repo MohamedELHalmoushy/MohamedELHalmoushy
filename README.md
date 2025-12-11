@@ -159,11 +159,6 @@
 - **Status:** 🟢 Completed  
 
 ---
-```markdown
-<details>
-  <summary>Click to view Projects</summary>
-  ...Projects content here...
-</details>
 
 ## 🏅 Achievements  
 - Ranked **1st** in Intelligent Systems Engineering  
@@ -294,3 +289,9 @@
 
 ### ⚡ Fun Fact  
 I build intelligent systems that combine **AI + DSP + Embedded Systems** to solve real-world problems.
+```markdown
+<details>
+  <summary>Click to view Projects</summary>
+  ...Projects content here...
+</details>
+
