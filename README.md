@@ -97,6 +97,22 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedELHalmoushy&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" />
+  <!-- Stars -->
+  <a href="https://github.com/MohamedELHalmoushy?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/MohamedELHalmoushy?style=flat-square&logo=github&label=Stars&color=yellow" alt="Stars"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Followers -->
+  <a href="https://github.com/MohamedELHalmoushy?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/MohamedELHalmoushy?style=flat-square&logo=github&label=Followers&color=blue" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Profile Views -->
+  <a href="https://komarev.com/ghpvc/?username=MohamedELHalmoushy" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=MohamedELHalmoushy&color=blue&style=flat-square" alt="Profile Views"/>
+  </a>
+
+
 </p>
 
 ---
@@ -144,14 +160,9 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-<p align="center">
-![Stars](https://img.shields.io/github/stars/MohamedELHalmoushy?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/MohamedELHalmoushy?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=MohamedELHalmoushy&style=for-the-badge)
-
+---
 
 ## 🏆 Developer Badges  
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=artificialintelligence&logoColor=white)
