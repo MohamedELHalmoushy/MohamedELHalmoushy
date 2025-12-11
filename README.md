@@ -108,6 +108,30 @@
 
 ---
 
+## 🖥️ Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🧩 Frameworks & Tools  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7800?style=for-the-badge&logo=MathWorks&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
 ## 🛠️ Tools & Technologies  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -120,6 +144,26 @@
 </p>
 
 ---
+
+## 📊 GitHub Stats  
+![Stars](https://img.shields.io/github/stars/MohamedELHalmoushy?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MohamedELHalmoushy?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=MohamedELHalmoushy&style=for-the-badge)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Developer Badges  
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT Developer](https://img.shields.io/badge/IoT%20Developer-00A8E8?style=for-the-badge&logo=espressif&logoColor=white)
+
+---
+
 
 ## 📫 Connect With Me  
 <p align="center">
