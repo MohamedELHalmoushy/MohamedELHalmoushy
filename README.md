@@ -148,26 +148,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stars Badge -->
-  <a href="https://github.com/MohamedELHalmoushy?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/stars/MohamedELHalmoushy?style=flat-square&logo=github&label=Stars&color=yellow" alt="Stars"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Followers Badge -->
-  <a href="https://github.com/MohamedELHalmoushy?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/MohamedELHalmoushy?style=flat-square&logo=github&label=Followers&color=blue" alt="Followers"/>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Profile Views Badge -->
-  <a href="https://komarev.com/ghpvc/?username=MohamedELHalmoushy" target="_blank">
-    <img src="https://img.shields.io/badge/Profile%20Views-💻-success?style=flat-square" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedELHalmoushy&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![Stars](https://img.shields.io/github/stars/MohamedELHalmoushy?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MohamedELHalmoushy?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=MohamedELHalmoushy&style=for-the-badge)
 
 
 ## 🏆 Developer Badges  
