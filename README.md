@@ -24,34 +24,76 @@
 <p align="center">
   <img alt="2nd Place" width="500" height="600" style="border-radius:50%;" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/main/Hackathon.jpg">
 </p>
-## 🧠 Technical Skills
+---
+## 🧠 Technical Skills  
 
-### 🔹 AI & Machine Learning  
-- Python, Scikit-Learn, TensorFlow, Keras, PyTorch  
-- NLP, Seq2Seq, Emotion Recognition, Sentiment Analysis  
-- Face Recognition (MTCNN, FaceNet, SSD)  
-- Object Detection (SSD MobileNet, YOLOv8)
-
-### 🔹 DSP (Digital Signal Processing)
-- Audio Watermarking  
-- Filters, FFT, Signal Enhancement  
-- MATLAB, Simulink  
-- DSP application in object detection
-
-### 🔹 Embedded Systems & IoT  
-- ATmega32, Arduino, ESP8266  
-- Sensors, Motors, LCD, UART, ADC  
-- L293 Motor Driver  
-- IoT (WiFi control, real-time monitoring)
-
-### 🔹 Software Engineering  
-- Flask, FastAPI  
-- Java Swing  
-- MySQL, JSON, REST APIs  
-- Git, GitHub, Linux
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
+</p>
 
 ---
 
+### 🔹 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="24"/> AI & Machine Learning  
+
+<div align="center">
+
+| Skill | Tools / Technologies |
+|-------|-----------------------|
+| **Programming & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| **Deep Learning** | CNNs, RNNs, Seq2Seq, Embeddings |
+| **NLP** | Emotion Recognition, Sentiment Analysis, Text Classification |
+| **Face Recognition** | MTCNN, FaceNet, SSD |
+| **Object Detection** | SSD MobileNet, YOLOv8 |
+
+</div>
+
+---
+
+### 🔹 <img src="https://img.icons8.com/external-flat-satawat-anukul/64/external-dsp-chip-flat-satawat-anukul.png" width="24"/> DSP (Digital Signal Processing)
+
+<div align="center">
+
+| Area | Tools |
+|------|--------|
+| **Core DSP** | Filters, FFT, Signal Enhancement |
+| **Applications** | DSP for Object Detection, Real-Time Processing |
+| **Software** | ![MATLAB](https://img.shields.io/badge/MATLAB-FF7800?logo=MathWorks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-007ACC?logo=simulink&logoColor=white) |
+| **Research** | Audio Watermarking |
+
+</div>
+
+---
+
+### 🔹 <img src="https://img.icons8.com/color/48/microchip.png" width="24"/> Embedded Systems & IoT
+
+<div align="center">
+
+| Category | Tools & Hardware |
+|----------|------------------|
+| **Microcontrollers** | ATmega32, Arduino, ESP8266 |
+| **Hardware Interfaces** | Sensors, Motors, LCD, UART, ADC |
+| **Drivers & Modules** | L293 Motor Driver |
+| **IoT** | Real-time Monitoring, WiFi Control |
+
+</div>
+
+---
+
+### 🔹 <img src="https://img.icons8.com/color/48/laptop-coding.png" width="24"/> Software Engineering
+
+<div align="center">
+
+| Field | Technologies |
+|-------|--------------|
+| **Backend** | Flask, FastAPI |
+| **Desktop Apps** | Java Swing |
+| **Databases** | MySQL, JSON |
+| **Dev Tools** | Git, GitHub, Linux |
+| **APIs** | REST API Architecture |
+
+</div>
+
+---
 ## 📌 Featured Projects
 
 ### ⭐ AI Chatbot with Emotional Understanding  
