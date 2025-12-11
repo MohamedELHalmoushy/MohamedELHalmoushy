@@ -122,7 +122,7 @@
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedELHalmoushy&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=MohamedELHalmoushy&theme=tokyonight" />
 </p>
 
 ---
