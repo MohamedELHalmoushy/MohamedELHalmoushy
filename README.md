@@ -163,9 +163,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
----
 
 ## 🏆 Developer Badges  
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge&logo=artificialintelligence&logoColor=white)
