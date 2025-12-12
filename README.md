@@ -255,17 +255,17 @@
 ---
 ### 🔥 Profile Contribution Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedELHalmoushy&theme=tokyonight" />
+  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedELHalmoushy&theme=tokyonight" />
 </p>
 
-### ⏰ Productive Time (When you code the most)
+### ⏰ Productive Time 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedELHalmoushy&theme=tokyonight" />
+  <img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedELHalmoushy&theme=tokyonight" />
 </p>
 
 ### 🌡️ Contribution Heatmap
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedELHalmoushy&theme=tokyonight&hide_border=true&area=true" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedELHalmoushy&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
 ---
