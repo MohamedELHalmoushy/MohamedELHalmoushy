@@ -196,13 +196,6 @@
   </a>
 </p>
 
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streaks-readme.vercel.app/api?user=MohamedELHalmoushy&theme=tokyonight" />
-</p>
-
 
 ---
 
@@ -261,13 +254,6 @@
 
 ---
 
-## 💎 Contribution Activity (Advanced & Animated)
-
-### 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake-dark.svg">
-</p>
-
 
 ### 🔥 Profile Contribution Summary
 <p align="center">
@@ -286,5 +272,9 @@
 
 ---
 
-### ⚡ Fun Fact  
-I build intelligent systems that combine **AI + DSP + Embedded Systems** to solve real-world problems.
+
+### 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake-dark.svg">
+
+</p>
