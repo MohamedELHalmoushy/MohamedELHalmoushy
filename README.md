@@ -273,7 +273,7 @@
 ---
 
 
-### 🐍 Contribution Snake (Animated)
+
 <p align="center">
   <img width="900" src="https://raw.githubusercontent.com/MohamedELHalmoushy/MohamedELHalmoushy/output/github-contribution-grid-snake-dark.svg">
 
