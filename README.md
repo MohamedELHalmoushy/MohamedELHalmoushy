@@ -253,8 +253,10 @@
 </p>
 
 ---
+## 🔥🔥🔥🔥🔥🔥🔥🔥
+<p align="center">
 <img src="https://camo.githubusercontent.com/xxx/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4d6f68616d6564454c48616c6d6f75736879267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=MohamedELHalmoushy&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
-
+</p>
 ---
 ### 🔥 Profile Contribution Summary
 <p align="center">
